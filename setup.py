@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name="easy_tensorflow_models",
     packages=["easy_tensorflow_models"],
-    version="0.1.3",
+    version="0.1.5",
     description="Helpers for creating, training, and serving TF models",
     author="Michael Doran",
     author_email="mikrdoran@gmail.com",
